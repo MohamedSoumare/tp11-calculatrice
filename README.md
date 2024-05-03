@@ -10,7 +10,6 @@ Ce projet est une calculatrice simple en HTML, CSS et JavaScript, qui permet d'e
 
 ****multiplication.html : Cette page permet d'effectuer une opération de multiplication. Elle est similaire aux pages d'addition  mais avec un bouton "Calculer" pour multiplier les nombres saisis.
 
-d****ivision.html : Cette page permet d'effectuer une opération de division. Elle contient des champs pour entrer deux nombres, un bouton "Calculer" pour diviser ces nombres, et affiche le résultat de la division.
-
+****division.html : Cette page permet d'effectuer une opération de division. Elle contient des champs pour entrer deux nombres, un bouton "Calculer" pour diviser ces nombres, et affiche le résultat de la division.
 
 En résumé, ce projet crée une interface web pour une calculatrice qui permet à l'utilisateur d'effectuer différentes opérations mathématiques en saisissant des nombres dans des champs dédiés et en cliquant sur des boutons de calcul correspondants.
